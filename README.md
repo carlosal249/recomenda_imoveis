@@ -1,6 +1,6 @@
 <h1 align=center> Recomendador de imoveis</h1>
 <ul>
-  <li>In this project, I created a recommendation system for properties in São Paulo. The web application searches for properties on quinto andar, processes the data, and goes through a machine learning model, where it recommends the best properties based on my hand made labels</li>
+  <li>In this project, I created a recommendation system for properties in São Paulo. The web application searches for properties on quinto andar, processes the data, and goes through a machine learning model, where it recommends the best properties based on my half hand made labels and half Active-Learning</li>
 
   <li>For this project I created a ensemble of ensembles, LightGBM + RandomForestClassifier</li>
   
